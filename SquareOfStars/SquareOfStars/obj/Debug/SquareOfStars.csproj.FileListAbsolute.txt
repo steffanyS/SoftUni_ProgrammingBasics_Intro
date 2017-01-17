@@ -1,0 +1,5 @@
+E:\SoftUni\lesson1\SquareOfStars\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+E:\SoftUni\lesson1\SquareOfStars\SquareOfStars\bin\Debug\SquareOfStars.exe
+E:\SoftUni\lesson1\SquareOfStars\SquareOfStars\bin\Debug\SquareOfStars.pdb
+E:\SoftUni\lesson1\SquareOfStars\SquareOfStars\obj\Debug\SquareOfStars.exe
+E:\SoftUni\lesson1\SquareOfStars\SquareOfStars\obj\Debug\SquareOfStars.pdb

@@ -1,0 +1,8 @@
+E:\SoftUni\lesson1\RectangleArea\RectangleArea\bin\Debug\RectangleArea.exe.config
+E:\SoftUni\lesson1\RectangleArea\RectangleArea\bin\Debug\RectangleArea.exe
+E:\SoftUni\lesson1\RectangleArea\RectangleArea\bin\Debug\RectangleArea.pdb
+E:\SoftUni\lesson1\RectangleArea\RectangleArea\obj\Debug\RectangleArea.exe
+E:\SoftUni\lesson1\RectangleArea\RectangleArea\obj\Debug\RectangleArea.pdb
+E:\SoftUni\ProgrammingBasics\01.Intro\RectangleArea\RectangleArea\bin\Debug\RectangleArea.exe.config
+E:\SoftUni\ProgrammingBasics\01.Intro\RectangleArea\RectangleArea\obj\Debug\RectangleArea.exe
+E:\SoftUni\ProgrammingBasics\01.Intro\RectangleArea\RectangleArea\obj\Debug\RectangleArea.pdb

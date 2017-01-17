@@ -1,0 +1,5 @@
+E:\SoftUni\lesson1\Triangle55\Triangle55\bin\Debug\Triangle55.exe.config
+E:\SoftUni\lesson1\Triangle55\Triangle55\bin\Debug\Triangle55.exe
+E:\SoftUni\lesson1\Triangle55\Triangle55\bin\Debug\Triangle55.pdb
+E:\SoftUni\lesson1\Triangle55\Triangle55\obj\Debug\Triangle55.exe
+E:\SoftUni\lesson1\Triangle55\Triangle55\obj\Debug\Triangle55.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\lesson1\Expression\Expression\bin\Debug\Expression.exe.config
+E:\SoftUni\lesson1\Expression\Expression\bin\Debug\Expression.exe
+E:\SoftUni\lesson1\Expression\Expression\bin\Debug\Expression.pdb
+E:\SoftUni\lesson1\Expression\Expression\obj\Debug\Expression.csprojResolveAssemblyReference.cache
+E:\SoftUni\lesson1\Expression\Expression\obj\Debug\Expression.exe
+E:\SoftUni\lesson1\Expression\Expression\obj\Debug\Expression.pdb
